@@ -1,0 +1,101 @@
+.App{
+    text-align: center;
+}
+.home{
+    text-align: center;
+    background-color: antiquewhite;
+    text-decoration: none;
+    height: 85vh;
+}
+.container{
+    text-decoration: none;
+    background-color: skyblue;
+ display:flex;
+ font-size: xx-large;
+ font-weight: bolder;
+}
+.navsearch{
+    margin-left: 800px;
+}
+.card{
+    text-decoration: none;
+    margin-top: 50px;
+    display: flex;
+}
+.mainsearch{
+    background-color: gainsboro;
+    margin-left: -65px;
+}
+.search{
+    width: 900px;
+    height: 50px;
+    margin-top: 20px;
+    background-color: whitesmoke;
+    border-radius: 25px;
+}
+.follow{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.containerprofile{
+display: flex;
+justify-content: space-between;
+height: 100vh;
+}
+.profilecard{
+    width: 600px;
+     margin-top: 20px;
+}
+.link{
+   
+    margin-top: 20px;
+    width: 750px;
+    justify-content:space-between;
+    background-color: rgb(233, 233, 225);
+}
+.repoprofile{
+    text-decoration: none;
+    width: 100px;
+    margin: 10px;
+    border-radius: 15px;
+    background-color: rgb(134, 218, 218);
+}
+.footer{
+    background-color: grey;
+    height: 40px;
+    display: block;
+    padding: 15px;
+}
+h4{
+    background-color: grey;
+    display: block;
+    margin-top: -5px;
+}
+.pdata{
+    display: flex;
+    flex-direction: row;
+    margin-left: 50px;
+}
+.profilecard{
+    border: 1px solid gray;
+}
+.visit{
+    cursor: pointer;
+}
+.repourl{
+    border: 2px solid green;
+    border-radius: 20px;
+    background-color: whitesmoke;
+  
+}
+.prepo{
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    align-items: flex-start;
+}
+.repocontainer{
+  overflow-y: auto;
+    height: 89vh;
+}
