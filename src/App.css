@@ -45,14 +45,13 @@ height: 100vh;
 }
 .profilecard{
     width: 600px;
-     margin-top: 20px;
+     margin-top: 40px;
 }
 .link{
-   
-    margin-top: 20px;
+    margin-top: -0.5px;
     width: 750px;
     justify-content:space-between;
-    background-color: rgb(233, 233, 225);
+    background-color: whitesmoke;
 }
 .repoprofile{
     text-decoration: none;
